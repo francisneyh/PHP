@@ -1,2 +1,2 @@
 # PHP
-Treinando a sintaxe da limguagem PHP
+Treinando a sintaxe da linguagem PHP
