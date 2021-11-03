@@ -11,3 +11,4 @@ Treinando a sintaxe da linguagem PHP:
 - saída de dados
 - operador tenário
 - switch
+- casting de tipos de variáveis
