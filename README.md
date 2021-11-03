@@ -9,3 +9,4 @@ Treinando a sintaxe da linguagem PHP:
 - operadores de comparação
 - estruturas condicionais
 - saída de dados
+- operador tenário
