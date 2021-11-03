@@ -10,3 +10,4 @@ Treinando a sintaxe da linguagem PHP:
 - estruturas condicionais
 - saída de dados
 - operador tenário
+- switch
