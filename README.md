@@ -18,3 +18,4 @@ Treinando a sintaxe da linguagem PHP:
 - funções
 - arrays
 - arrays multidimensionais
+- array métodos de pesquisa
