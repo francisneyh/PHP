@@ -15,3 +15,4 @@ Treinando a sintaxe da linguagem PHP:
 - operadores aritméticos
 - operadores de atribuição aritméticos
 - operadores de incremento e decremento
+- funções
