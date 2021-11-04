@@ -17,3 +17,4 @@ Treinando a sintaxe da linguagem PHP:
 - operadores de incremento e decremento
 - funções
 - arrays
+- arrays multidimensionais
