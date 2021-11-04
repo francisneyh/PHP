@@ -14,3 +14,4 @@ Treinando a sintaxe da linguagem PHP:
 - casting de tipos de variáveis
 - operadores aritméticos
 - operadores de atribuição aritméticos
+- operadores de incremento e decremento
