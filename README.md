@@ -12,3 +12,4 @@ Treinando a sintaxe da linguagem PHP:
 - operador tenário
 - switch
 - casting de tipos de variáveis
+- operadores aritméticos
