@@ -13,3 +13,4 @@ Treinando a sintaxe da linguagem PHP:
 - switch
 - casting de tipos de variáveis
 - operadores aritméticos
+- operadores de atribuição aritméticos
