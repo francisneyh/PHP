@@ -16,3 +16,4 @@ Treinando a sintaxe da linguagem PHP:
 - operadores de atribuição aritméticos
 - operadores de incremento e decremento
 - funções
+- arrays
