@@ -19,3 +19,4 @@ Treinando a sintaxe da linguagem PHP:
 - arrays
 - arrays multidimensionais
 - array métodos de pesquisa
+- Estruturas de repetição
