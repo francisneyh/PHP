@@ -21,3 +21,4 @@ Treinando a sintaxe da linguagem PHP:
 - array métodos de pesquisa
 - estruturas de repetição
 - percorrer arrays
+- Foreach em Arrays associativos e Foreach encadeados
