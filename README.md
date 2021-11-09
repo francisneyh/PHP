@@ -23,5 +23,6 @@ Treinando a sintaxe da linguagem PHP:
 - percorrer arrays
 - Foreach em Arrays associativos e Foreach encadeados
 - Funções nativas do PHP para manipulação de: strings, tarefas matemáticas, datas
+- pseudo-variável 
 - Programação Orientada a Objetos
 - POO - Pilar da Abstração
