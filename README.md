@@ -26,3 +26,5 @@ Treinando a sintaxe da linguagem PHP:
 - pseudo-variável 
 - Programação Orientada a Objetos
 - POO - Pilar da Abstração
+- POO - Pilar da Encapsulamento
+
