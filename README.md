@@ -27,4 +27,5 @@ Treinando a sintaxe da linguagem PHP:
 - Programação Orientada a Objetos
 - POO - Pilar da Abstração
 - POO - Pilar da Encapsulamento
+- método construtor (__construct)
 
